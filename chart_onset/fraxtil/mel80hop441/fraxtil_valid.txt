@@ -1,0 +1,9 @@
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sArrowArrangements_GangnamStyle.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sArrowArrangements_LovetoRiseintheSummerMorning.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sBeastBeats_FutureMUSiC.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sBeastBeats_Lightspeed_Remix_.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_UmbralUltimatum.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_PhantomsInDaHouse.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_MixedBerry.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_HateYou.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_TheOrionids.pkl

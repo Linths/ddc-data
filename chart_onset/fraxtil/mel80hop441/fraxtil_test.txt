@@ -1,0 +1,9 @@
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sArrowArrangements_StarGear.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sArrowArrangements_TurnUp_TheMusic_.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sBeastBeats_Souten_sta_sKey_Kaimix_.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sBeastBeats_Trap.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_TheAdvantage.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_PesenkaSpeedcore.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_Worldview.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_StayInYourRoomWithK.pkl
+/home/Lindsay/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_UltraThizz.pkl
