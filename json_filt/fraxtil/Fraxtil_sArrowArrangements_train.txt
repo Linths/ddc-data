@@ -1,0 +1,16 @@
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_NeedYourLove_SF_DubstepMix_.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_BitchClap.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_CallMeMaybe_Remix_.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_HumanError.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_Goin_Under.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_Goodbye_2012Mix_.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_BadKetchup.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_TheSeconds.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_DeadHollywood.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_NoBeginning.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_DealWithIt.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_Stamina.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_Named_TheMoon_.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_PainGame.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_Girls.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/Fraxtil_sArrowArrangements/Fraxtil_sArrowArrangements_InnerUniverse_ExtendedMix_.json

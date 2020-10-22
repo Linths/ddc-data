@@ -1,0 +1,5 @@
+/home/Lindsay/ddc/data/json_filt/fraxtil/TsunamixIII/TsunamixIII_UmbralUltimatum.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/TsunamixIII/TsunamixIII_PhantomsInDaHouse.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/TsunamixIII/TsunamixIII_MixedBerry.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/TsunamixIII/TsunamixIII_HateYou.json
+/home/Lindsay/ddc/data/json_filt/fraxtil/TsunamixIII/TsunamixIII_TheOrionids.json
