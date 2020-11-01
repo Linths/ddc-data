@@ -1,9 +1,0 @@
-/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sArrowArrangements_HumanError.pkl
-/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sArrowArrangements_Girls.pkl
-/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sBeastBeats_JumpYaBody.pkl
-/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sBeastBeats_G_SYMPHONiCORE.pkl
-/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_HotPursuit_Remix_.pkl
-/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_Timewarp.pkl
-/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_StayAwake.pkl
-/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_Killin_YourDudes.pkl
-/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_TheOrionids.pkl
