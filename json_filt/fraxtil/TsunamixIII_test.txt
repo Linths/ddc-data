@@ -1,0 +1,5 @@
+/home/linths/ddc/data/json_filt/fraxtil/TsunamixIII/TsunamixIII_TheAdvantage.json
+/home/linths/ddc/data/json_filt/fraxtil/TsunamixIII/TsunamixIII_PesenkaSpeedcore.json
+/home/linths/ddc/data/json_filt/fraxtil/TsunamixIII/TsunamixIII_Worldview.json
+/home/linths/ddc/data/json_filt/fraxtil/TsunamixIII/TsunamixIII_StayInYourRoomWithK.json
+/home/linths/ddc/data/json_filt/fraxtil/TsunamixIII/TsunamixIII_UltraThizz.json

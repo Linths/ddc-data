@@ -1,0 +1,2 @@
+/home/linths/ddc/data/json_filt/fraxtil/Fraxtil_sBeastBeats/Fraxtil_sBeastBeats_FutureMUSiC.json
+/home/linths/ddc/data/json_filt/fraxtil/Fraxtil_sBeastBeats/Fraxtil_sBeastBeats_Lightspeed_Remix_.json

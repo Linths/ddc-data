@@ -1,0 +1,9 @@
+/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sArrowArrangements_InnerUniverse_ExtendedMix_.pkl
+/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sArrowArrangements_Named_TheMoon_.pkl
+/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sBeastBeats_KokeshiNekoMedley.pkl
+/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/Fraxtil_sBeastBeats_Mess.pkl
+/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_FallingDown.pkl
+/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_RollingDownTheStreet.pkl
+/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_LetItGo.pkl
+/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_RightOsiris.pkl
+/home/linths/ddc/data/chart_onset/fraxtil/mel80hop441/TsunamixIII_Sleaze.pkl
